@@ -1,0 +1,663 @@
+In general, I will ask the explicit
+to the concept.
+I will explain this virtual environment.
+Is it some type of metaverse or what?
+Nice joke.
+If you want to see the list.
+But,
+virtual environment,
+they refer
+to the
+image of the day.
+You got the idea.
+Okay, so virtual environment
+and the standard of the day.
+So virtual environment.
+This is a major problem
+when you create
+a project.
+For example, Anșara,
+Andrei face un project,
+Vasele face și alt.
+Fiecare dintre voi îl faceți
+pe
+corporatoare diferite,
+foloseți diferite librării
+și foloseți
+poate chiar și versiuni diferite.
+Iar
+atunci când
+vine momentul
+să
+transferați
+codul sau că codul vostru
+să fie utilizată de altcineva,
+apar careva dificultăți.
+La ce mă refer,
+asta e conflictele.
+Conflictele se întâmplă
+atunci când
+voi foloseți versiuni diferite de
+Python
+sau poate versiuni diferite de
+librării.
+Și după cum ați zis și de-a trecută,
+este momentul ăsta că
+cu o versiune nouă
+apar careva modificări.
+Modificările astea, ori
+poate să înseamnă că ceva a fost scos,
+ori poate să înseamnă că ceva a fost
+adăugat.
+Și astea să facți și
+atăvându-n fier
+Python că-ți dat.
+Este aici jos
+un element
+spaces.
+Selecți indentation.
+Ateceți aici
+și
+selectați indent
+using spaces
+și la selecție
+selectați patru.
+de cei patru echivalente
+echivalentul la un tab.
+Încă un element.
+Python împățurilez cod
+care e scris și cu taburi
+și cu spații.
+Adică ori foloseți numai taburi,
+ori foloseți numai spații.
+Îți controlați vădăi eroare,
+dar țineți cont de asta.
+Voi poate nu vedeți o diferență,
+dar pentru Python este diferență între caractere
+sau între codurile la caractere,
+pentru că spațiu în sine totul ei
+este un tip de caractere.
+Bun.
+Nu e mai departe.
+Deci astea era
+spre dentarea,
+după asta spațiu.
+Ulterior,
+maximul line-lea.
+Chiar dacă la noi
+ori teoretic noi putem scriem
+codul în Python,
+cât de lung noi vreau să fie el,
+de exemplu eu aș putea să fac un client
+de o grămadă de caractere,
+după ce nu e recomandat.
+De ce?
+Pentru că nu întotdeauna avem
+ecrani foarte mari.
+Este o regulă nescrisă că
+codul nu trebuie să fie mai lung decât
+ecranul.
+Adică tu, prin ecran,
+îți poți să dea întregul cod
+fără să trebuie să îl dai în dreapta
+sau în stânga.
+Adică dacă la mine și încă ați dat textul mai lung,
+da?
+Păi el trebuie să dau scrollul în dreapta și în stânga.
+Un cod bun, un cod scris corect,
+eu nu trebuie să dau în dreapta și în stânga
+și eu, în general,
+trebuie să pot să-l pun așa într-o parte
+și să pot vedea tot ce se întâmplă aici.
+Da?
+Eventual se sigure prin check-urile astea,
+prin verificări,
+că funcția lucrează așa cum trebuie.
+Și atunci când tu testezi
+fiecare funcție algoritmului tău,
+fiecare funcție sau element algoritmului tău
+și tu știi că fiecare element lucrează așa cum ar trebui să lucrează,
+sau automat și algoritmul tău să lucrează așa cum ar trebui.
+Asta e bine și de la conceptul de unit testing,
+spre care, spre care să vă-l arăt.
+Se referă că decât să testezi toată algoritmul,
+pe care nu știu,
+poate să primească un dataset mare de milioane de date
+și să returneze careva predicții,
+tu poți să testezi cu câți mici ale algoritmului tău, elemente,
+de exemplu un element,
+poate să constă în,
+se calculează pătratul sumei,
+sau fiecare de genul ăsta,
+și să testezi mici elemente ale algoritmului,
+ca să te asiguri că el funcționează de fapt.
+Asta e...
+Sorry.
+Asta e...
+Se va similar,
+o putea să fie și cu,
+exemplu, ca omul.
+Noi ca om, dar nu duc la medic,
+și este medic pentru...
+este stomatolog, este, nu știu,
+pentru ochi, pentru, nu știu,
+chema terapii root,
+pentru sange,
+inumă chestii de genul ăsta.
+Respectiv,
+noi putem să
+faci în diferite teste, pe diferite părța corpului,
+sau elementele organismului,
+respectiv, știind că toate părțile lucrează așa cum ar trebui să lucreze,
+noi înțelegem că și organismul,
+la general, lucrează așa cum ar trebui să lucreze.
+Pe fix așa și noi în test.
+Atunci când toate elementele,
+la algoritmul tău, lucrează așa cum ar trebui să lucreze,
+și la algoritmul tău, tot, cel mai probabil, lucrează așa cum ar trebui.
+Dacă nu, înseamnă că există un element
+care nu lucre așa cum trebuie,
+sau un element care le unește,
+nu lucrează așa cum trebuie,
+dar și pentru dâns ar fi posibil după cât test.
+În fel,
+cam asta e ideea din spatele testă.
+După asta,
+zeci și cât trebuie să o dau,
+zeci și cât trebuie să o dau homework-ul,
+trebuie să o dau homework-ul,
+trebuie să o încheoanec.
+Că-i i-o strig
+la let's code.
+Asta n-am nevoie,
+dar am nevoie așa
+If you don't see all the details,
+I'll show you a little bit more.
+Ah.
+Ah, I'll show you.
+Ah, I'll show you.
+Well.
+The first element of which I want to talk today is
+this will be, I think,
+trading.
+I'll show you a little bit more.
+This is too.
+Okay.
+După cum am vorbit anterior,
+trading will puteți să vă...
+Toți poate eu chiar vă găsesc o imagine bună.
+Trading will use this URL.
+Trading.
+There's multiprocessor.
+Așa.
+Imagine.
+Un virtual environment.
+Unvirtual environment.
+Așa.
+Un virtual environment.
+Așa.
+Așa.
+Un virtual environment.
+Așa.
+Un virtual environment.
+This is the first package that we have on Instagram,
+as well as Telegram,
+Python Telegram Bot,
+as well as we can see,
+as well as we can use Telegram,
+as well as Bot,
+as well as a teacher,
+as well as we can use Wikipedia,
+as well as a post article
+that we can use Wikipedia.
+See?
+It should flow through置,
+especially if you create the template,
+that we use environment,
+source,
+in activate,
+to reboot using a ItsS 아니면
+site,
+or in the begging,
+In Folder-ul acesta, we have multi-binarii,
+which one of the binarii, if you are in Linux,
+you can activate.
+If you are in Windows,
+you can also have a folder
+which is called scripts.
+There should be a file
+which is called activate
+or similar,
+but it should be called extension.bat.
+Aşa.
+In fact,
+we have to access Visual Studio Code.
+We have to use or
+text editor
+or tool
+that is not an important thing.
+For example,
+we have to use Echo Bot
+in Folder,
+for example,
+we have to use main.py.
+Aşa.
+Aşa.
+Aşa.
+Aşa.
+Inicii lazam şa skonfiguream un login.
+Adicum logger.
+Asie zbiyoteka login.
+Aşa.
+Aşa.
+Aşa.
+Aşa.
+Aşa.
+Aşa.
+Aşa.
+Especially in the room, we'll see in the format, apparently there are many parameters portrayed but there are them that we're really explaining Nvidia.
+But in these cases, we are anticipating, probably over 20%, having possible results.
+Fine, I hope that you don't want to scare me, but it's fine.
+The today's lecture will be this previous.
+Lambda functions, generator and decorator,
+and the exception.
+Okay.
+This is the first part.
+This is Lambda function.
+So, I'm going to give you a quick context.
+In Python, you need certain modifications.
+For example, you have a list,
+and you want to apply the list to a particular change.
+If you want to use a dictionary,
+you want to use a dictionary.
+To the value of the dictionary,
+the upper case,
+and the lower case,
+in the lower case.
+In the large case,
+in the large case,
+in the large case,
+where you need a simple change,
+or a small change,
+it's not as big as it is,
+it's not as big as it is,
+it's not as big as it is,
+but you can do it manually,
+in the large case.
+For this,
+the library created Lambda functions.
+And now,
+I'll show you an example.
+This is already done.
+But,
+the example is done.
+I'll show you the same.
+So,
+I'll show you the same.
+So,
+I'll show you the variable.
+So,
+I'll show you the variable.
+And then,
+how do we use Lambda functions?
+In the first one,
+we have the key of Lambda.
+After that,
+we'll show you the argument
+which we use to use.
+And then,
+we'll show you the format that we want to return.
+Or,
+the format that we want to be able to do.
+In the case of the data,
+we have X,
+and we want to return X to X.
+Respectively,
+if we want to try to use 4,
+we need to do that.
+So,
+we need to look for each variable.
+So,
+we need to solve the variables.
+We need to do the operation that we want to do.
+And,
+to fix as a function,
+def.
+Equivalent to a function,
+that would be def.
+And,
+that would be,
+the one,
+the one,
+and something like that.
+So,
+def.
+So,
+def.
+and repute X,
+and return X to X.
+And,
+the one,
+which one,
+is 4.
+The effect is all the same, but as you can see, this is much more simple.
+And if we know that the element that is being put in this line of default,
+and that doesn't work in the other part, then we use the function.
+If you know that the element is working in the other part,
+for example, if you have a site with an application very large,
+written in Python, with a lot of pages, very complex.
+You can see that it is possible for the function to have another part.
+For example, if you have a function of this, I have a function of this,
+I can use it to create a user.
+I can use it to use the same function when I want to use a user,
+when I want to change the user, or any other detail.
+At that time when this function is useful for us to use it in other parts,
+I recommend that we create a function apart,
+like dev.
+At that time when this is something simple,
+which is a strict moment,
+then it is ok to use the function.
+I love to myself.
+I'm going to fly with my staff and see what happens.
+2 much rather than 16.
+Here we can change some logic ownership.
+This is X plus X by X and X plus X,
+or X plus,
+I don't know what value is, but I don't know what value is, because in math, I don't know what value is, but I don't know what value is.
+So, every single element, in the function of lambda, you can return a single value.
+So, this is a single element.
+It can be a list, but a single one.
+For example, we can do x or 2.
+We can do it as input, list 4,5,6.
+If you don't have a run, you can do 4,5,6.
+The operation is applied to 2 hours on the list.
+I can do x max,
+I can do x.
+I'm going to do x the maximum value.
+I'm going to do x to the maximum value.
+Lambda function is going to be more input than I am.
+x, y, z, for example.
+I'm going to do x, y, z.
+6, 6, 4, 5, 6.
+6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6.
+Ok.
+Acum, cierri mii discurs de o adoc zischiduri.
+Douze secunde.
+Deci asigurat să vă sunteți în share în folderul vostru.
+Dic dacă la mine, în cazdat, eu eram în folderu paitenevțiiei, da?
+Dar fie și iarul nu era în folderu-u paitenvitei, el era înăuntru la folderu-cureon.
+Eu trebuie să intru în folderul brand, pe spot the run-up acestea.
+I already have done cd current and I am entering in folder current and when I am running,
+I can see that my implementation is all the content.
+Now, some of you might say that it is possible to make it more simple, with little lines, yes, it is possible.
+But what I recommend is to use with the open, because when we use with open,
+it automatically, at the end, is to open the fichier that we have.
+This is a problem because when you open the fichier, you need to open the fichier.
+If you open the fichier, you will remain, you know, a million of fichiers open the background.
+So, when we use with, it automatically open the fichier,
+and, as a result, you manage the resources better.
+And, as a result, there is logic in the bottom, which allows you to create more efficient when you use with.
+This was the case for writing, no, writing the fichier of the file.
+Now, we have the case for writing the file.
+For example, I would like to use with open.
+You must choose to write the file .という example .
+Hello World.
+As a result,
+I'm going to show you the program
+and I'm going to write in Share Now
+if it wasn't already there.
+It's all that is Hello World.
+Now, if I'm going to show you the text,
+I'm going to show you the one in the same time.
+Observe that I'm going to share
+the entire content that was in Share
+and I'm going to show you the text
+that I'm going to show you the one that I'm going to put.
+So, atent când foloseți
+write-o, pentru că el poate să cer
+tot conținutul trecut,
+voi desigur puteți mai întâi
+atunci când foloseți write-o,
+voi puteți și să citiți
+și aș puteți să fac
+content
+file.read
+să citeți
+tot asta
+ce să fac
+după asta
+file write Hello World
+dar hai spun așa
+să fii content
+plus
+că nu vă dăiat așa
+adică eu spun
+cei ce au fost în trecut
+și cei ce acum mă nu
+și dau run
+și mi-e deja
+ok, n-au trecut după
+fine
+atent
+nu
+după
+Okay.
+Well, this is referring to the aspects of the study of the animal, like that he needs money, that he needs to have access to air, that he needs to be lived, that he needs to be, that he needs to be, that he needs to be, that he needs to be.
+
+
+Well, this is the case.
+Well, this is the case.
+Well, this is the case.
+This is the case.
+This is the case.
+This is the case.
+This is the case.
+This case.
+This is the case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+This case.
+And if you can form something more great,
+if you're realizing it all together,
+you will get much
+Thank you.
+Thank you.
+Good.
+Let's continue.
+Okay, I think.
+Okay.
+Okay.
+Now, for the private values and the private variables,
+there is a concept
+that is more simple.
+Comparatively,
+you have information
+that you need to be accessible
+and accessible.
+There is another part
+and there is another class.
+There is information,
+which needs to be accessible
+for you to be accessible.
+The class
+and there are other variables
+and there are other methods.
+There is a way to be accessible.
+Do you want to be accessible?
+Do you want to be accessible?
+Yes.
+Where are the variables and variables
+you need to be accessible?
+You should be able toished
+for you to start the class.
+Do you need to be..
+Maybe to start the class?
+You are looking for your input.
+There is some sort of information
+that is relevant.
+I keep but потом
+just in case
+ok
+deci
+eu vorbim despre asta
+și
+în caz dat
+noi am putea de exemplu
+vă dau exemplul mai exact
+acum toți
+majoritatea lucrați la
+proiectele
+la proiectele care le aveți
+pentru Python Notices
+și fiecare a aprobatorului
+fiecare poate a instalat o
+versiune diferită de Python
+dar atunci când ați venit în momentul
+că eu de exemplu
+testez un proiect de vostru
+eu o să am nevoie
+să știu ce versiune de Python
+ați folosit
+ce versiunea fiecarei librărie ați folosit
+ca eu de fapt să pot rola
+proiectul care l-ați făcut
+adică eu trebuie să simulez
+environment-ul vostru
+environment-ul ăsta înseamnă
+un sisteme
+dar
+vom să spun
+în virtual în preocupmă
+sunt grepe în Thailand
+environment-ul
+dar îl avem
+foreign
+It's more subjective, and consistently consistent.
+This is also같 old
+I'm going...
+Folder.
+Now...
+and I would like to open with code
+open with code
+in the format
+ah, I have said that
+we need to do the next lecture
+for the next lecture
+for the next lecture
+for the next lecture
+for the next lecture
+this is the 79
+character
+this can be set in the code
+for you
+to have a bar
+that will permit
+to
+indicate
+where the 79
+character
+this can be 79
+or
+there is
+a library
+which I will present
+if you find
+if you find
+the code
+your
+which are long
+of
+79
+character
+then
+you are
+to say
+this
+to
+change
+this
+in Python
+there is
+a line
+for
+a character
+limit
+in
+vs code
+is
+necessary to
+control
+shift
+p
+to
+pass
+in vs code
+mac as
+fie
+command
+shift
+in
+json
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+c
+a
+a
+a
+a
+a
+Inchipuiți să văd că multi-threading-ul în sistem care lucrează pe multi-threading,
+nouă ne-ar permite, de exemplu, eu am un calculator care lucrează,
+numește un server, da, un server e calentată, o platformă e calentată adensă.
+Atunci când la mini-platforma lucrează pe multi-threading,
+eu nu am să ne îmbunătățesc calculatorul, poate, dar eu pur și simplu am să mai cumpăr încă unul,
+ca un al doilea fred, care o să creez împreună cu cel inițial.
+Atunci când...
